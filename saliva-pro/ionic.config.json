@@ -1,0 +1,7 @@
+{
+  "name": "Saliva Pro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
