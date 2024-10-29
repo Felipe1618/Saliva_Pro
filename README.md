@@ -1,6 +1,8 @@
 # Aplicativo para Dentista
 
-Desenvolvido com Ionic e React Native
+> Desenvolvido com Ionic e React Native.
+> Sempre siga os requistos aqui descritos, sem se desviar, caso encontre alguma incongruência, erro, ou queira sugerir melhorias,
+> fale com o restante da equipe.
 
 ## 1. Requisitos Funcionais
 
